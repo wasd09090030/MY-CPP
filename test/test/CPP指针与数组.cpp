@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include<algorithm>
 using namespace std;
 const int MAX = 3;
 
@@ -8,6 +8,11 @@ int main()
     int  var[MAX] = { 10, 100, 200 };
     int* ptr;
 
+
+    //*min_element返回的是地址
+    int x = *min_element(var,var+2);
+
+    cout << "最小值" << x<<endl;
     // 指针中的数组地址
     ptr = var;
     //指针指向数组第一个数的地址

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{587DF11A-BB09-43D2-93E6-8F94F50F9ACC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP基础", "test\test.vcxproj", "{587DF11A-BB09-43D2-93E6-8F94F50F9ACC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用CPP解决一些问题", "用CPP解决一些问题\用CPP解决一些问题.vcxproj", "{B590027C-92F2-4052-A1C9-676F9A16FBB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyX", "EasyX\EasyX.vcxproj", "{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{587DF11A-BB09-43D2-93E6-8F94F50F9ACC}.Release|x64.Build.0 = Release|x64
 		{587DF11A-BB09-43D2-93E6-8F94F50F9ACC}.Release|x86.ActiveCfg = Release|Win32
 		{587DF11A-BB09-43D2-93E6-8F94F50F9ACC}.Release|x86.Build.0 = Release|Win32
+		{B590027C-92F2-4052-A1C9-676F9A16FBB8}.Debug|x64.ActiveCfg = Debug|x64
+		{B590027C-92F2-4052-A1C9-676F9A16FBB8}.Debug|x64.Build.0 = Debug|x64
+		{B590027C-92F2-4052-A1C9-676F9A16FBB8}.Debug|x86.ActiveCfg = Debug|Win32
+		{B590027C-92F2-4052-A1C9-676F9A16FBB8}.Debug|x86.Build.0 = Debug|Win32
+		{B590027C-92F2-4052-A1C9-676F9A16FBB8}.Release|x64.ActiveCfg = Release|x64
+		{B590027C-92F2-4052-A1C9-676F9A16FBB8}.Release|x64.Build.0 = Release|x64
+		{B590027C-92F2-4052-A1C9-676F9A16FBB8}.Release|x86.ActiveCfg = Release|Win32
+		{B590027C-92F2-4052-A1C9-676F9A16FBB8}.Release|x86.Build.0 = Release|Win32
+		{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}.Debug|x64.ActiveCfg = Debug|x64
+		{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}.Debug|x64.Build.0 = Debug|x64
+		{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}.Debug|x86.ActiveCfg = Debug|Win32
+		{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}.Debug|x86.Build.0 = Debug|Win32
+		{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}.Release|x64.ActiveCfg = Release|x64
+		{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}.Release|x64.Build.0 = Release|x64
+		{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}.Release|x86.ActiveCfg = Release|Win32
+		{9DB7540F-F1B9-4CE0-9872-1FDD0E402DD9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,7 +13,7 @@ int main() {
     // 创建一个空的整数向量
     vector<int> myVector;
 
-    // 添加元素到向量中
+    // 添加元素到向量中，添加到 vector 的末尾
     myVector.push_back(3);
     myVector.push_back(7);
     myVector.push_back(11);

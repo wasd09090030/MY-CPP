@@ -69,5 +69,29 @@
     <ClCompile Include="CPP结构化绑定数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="CPP继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP多态.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP数据抽象.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP接口（抽象类）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP抛出异常.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP动态分配内存.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二重数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="遍历二叉树.md">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
