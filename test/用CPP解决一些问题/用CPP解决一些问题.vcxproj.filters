@@ -24,5 +24,38 @@
     <ClCompile Include="测试.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="CPP链表的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多态《饮料制作》.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程callonce.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程lockguard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程condition_varible.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程跨平台线程池.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程async使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程future和promise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP右值引用示例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程future和promise02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程原子操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

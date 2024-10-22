@@ -2,6 +2,9 @@
 
 using namespace std;
 
+
+//lambda±í´ïÊ½£º[capture](parameters) -> return_type { body }
+
 int main()
 {
     int i = 1024;

@@ -11,6 +11,8 @@ int main()
 
 	ip = &var;       // 在指针变量中存储 var 的地址
 
+	//指针IP 前面加上 *代表引用，找到指针指向的内存中的数据
+
 	cout << "Value of var variable: ";
 	cout << var << endl;
 

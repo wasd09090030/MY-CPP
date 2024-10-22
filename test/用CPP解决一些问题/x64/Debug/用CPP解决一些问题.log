@@ -1,3 +1,2 @@
-﻿  w.cpp
-D:\wg\VS\CPP\test\用CPP解决一些问题\w.cpp(7,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+﻿  多线程future和promise02.cpp
   用CPP解决一些问题.vcxproj -> D:\wg\VS\CPP\test\x64\Debug\用CPP解决一些问题.exe
